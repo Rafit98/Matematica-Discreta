@@ -1,0 +1,1 @@
+Creo un programa en Java por consola , que recibe un binario de hasta 16 posiciones y lo devuelve como octal, decimal y hexadecimal
